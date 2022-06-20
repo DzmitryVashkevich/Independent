@@ -8,7 +8,7 @@
 
 body {
     margin: 0px;
-    background-color: rgba(107, 181, 200, 0.877);
+    background-color: rgba(140, 191, 203, 0.877);
 }
 
 .ground-colorIN {
@@ -88,7 +88,7 @@ h1::after, h2::after {
     text-align: center;
     float: right;
     font-size: 15px;
-    background: rgb(174, 174, 245);
+    background: rgb(206, 206, 255);
     border-radius: 20px;
     box-shadow: 1px 1px 0px 1px;
 }
