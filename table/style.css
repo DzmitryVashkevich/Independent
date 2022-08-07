@@ -9,7 +9,7 @@ body {
 .block {
     height: 600px;
     width: 430px;
-    background: linear-gradient(rgba(43, 40, 152, 0.75), rgba(35, 85, 79, 0.95));
+    background: linear-gradient(rgba(40, 150, 152, 0.75), rgba(35, 85, 79, 0.95));
     border-radius: 5px;
     box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.5);
     margin-left: auto;
@@ -35,7 +35,7 @@ body {
 .links .active a {
     padding-bottom: 5px;
     color: #ffffff;
-    border-bottom: solid 2px #1059ff;
+    border-bottom: solid 2px #0b379b;
 }
 
 form {
@@ -74,7 +74,7 @@ form {
 
 .form-singin {
     width: 100%;
-    background-color: rgb(16, 89, 255, 1);
+    background-color: rgb(11, 52, 146);
     border: none;
     height: 35px;
     border-radius: 20px;
