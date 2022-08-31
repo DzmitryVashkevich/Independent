@@ -45,7 +45,7 @@ main {
 }
 
 .aside__header p {
-    color: white;
+    color: rgb(204, 230, 251);
     font-size: 18px;
 }
 
@@ -76,7 +76,7 @@ main {
 }
 
 .aside__icon {
-    padding-right: 20px;
+    padding-right: 30px;
 }
 
 .aside__list li a.active__home {
@@ -85,7 +85,7 @@ main {
 
 main p {
     color: black;
-    padding: 20px;
+    padding: 30px;
 }
 
 @media screen and (max-width: 650px) {
