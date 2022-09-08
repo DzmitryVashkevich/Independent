@@ -3,12 +3,12 @@
     height: 200px;
     border: solid 1px black;
     border-radius: 5px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 1em;
 }
 
 h1 {
-    font-size: 1.2em;
+    font-size: 1.4em;
     background-image: url("bulb.png");
     background-repeat: no-repeat;
     background-position: right 0.5em top 0;
